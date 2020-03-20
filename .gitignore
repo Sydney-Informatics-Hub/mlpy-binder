@@ -1,0 +1,17 @@
+*py-earth*
+*.pyc
+*~
+.DS_Store
+.ipynb_checkpoints
+.sass-cache
+__pycache__
+_site
+.Rproj.user
+.Rhistory
+.RData
+_episodes_slides
+
+# editors
+*.sublime*
+*.code
+*.vscode
